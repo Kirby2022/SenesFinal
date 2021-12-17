@@ -4,6 +4,5 @@
 # SenesFinal
 
 
-Prototype d'un application native iOS réalisé dans le cadre de l'Apple extended program. Résultat du travail de 2 semaines et demi par un groupe de 5 personnes.
 
 L'application permet aux personnes âgées isolées de rencontrer et d'échanger des moments de vie autour de centres d’intérêt communs.
